@@ -23,7 +23,13 @@ Link: https://www.youtube.com/c/cfbcursos
 
 ## Test the Screen
 
-Link to test: 
+Link to test: https://alexandrecolpani.github.io/login-screen/
+
+#### ✔️ Features
+- [x] Place an animation
+- [ ] Make mobile responsive
+- [ ] Create a backend
+
 
 #### 🛠 Technologies
 The following tools were used in building the project:
